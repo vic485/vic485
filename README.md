@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://i.imgur.com/TIrCzW7.jpg" width="400" />
+</p>
 
 <!--
 **vic485/vic485** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
