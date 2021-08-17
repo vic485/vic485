@@ -2,6 +2,11 @@
   <img src="https://i.imgur.com/TIrCzW7.jpg" width="400" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vic485/github-stats/master/generated/overview.svg" />
+  <img src="https://raw.githubusercontent.com/vic485/github-stats/master/generated/languages.svg" />
+</p>
+          
 <!--
 **vic485/vic485** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
